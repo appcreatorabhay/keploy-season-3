@@ -1,6 +1,7 @@
 # User Management API Server 🚀
 
-<img width="371" alt="Screenshot 2025-06-23 235447" src="https://github.com/user-attachments/assets/13b47413-2758-4b3d-9c83-ffc786202345" />
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/e28d96c3-a79c-4794-87f1-368bed222cb6" />
+
 
 
 
