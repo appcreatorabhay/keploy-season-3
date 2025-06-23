@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1750702879067" clover="3.2.0">
+  <project timestamp="1750702879068" name="All files">
+    <metrics statements="39" coveredstatements="35" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="43" coveredelements="39" complexity="0" loc="39" ncloc="39" packages="4" files="4" classes="4"/>
+    <package name="api-server">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app.js" path="D:\open-soure-keploy-2\opensource-uploads\keploy-source-102\api-server\app.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="api-server.controllers">
+      <metrics statements="22" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="userController.js" path="D:\open-soure-keploy-2\opensource-uploads\keploy-source-102\api-server\controllers\userController.js">
+        <metrics statements="22" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="api-server.models">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="user.js" path="D:\open-soure-keploy-2\opensource-uploads\keploy-source-102\api-server\models\user.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="api-server.routes">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="userRoute.js" path="D:\open-soure-keploy-2\opensource-uploads\keploy-source-102\api-server\routes\userRoute.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
